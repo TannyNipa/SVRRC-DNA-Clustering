@@ -26,11 +26,10 @@ Each dataset includes:
 7. Dengue Virus
 8. HCV
 9. HIV
-10. Insects
-11. Protists
-12. Actinopterygii
-13. Neopterygii
-
+10. Insecta
+11. Protists (balanced)
+12. Fungi (balanced)
+13. Ascomycota
 ---
 
 ### 2. iDeLUCS / DeLUCS Datasets (External)
