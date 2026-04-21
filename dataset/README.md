@@ -28,8 +28,10 @@ Each dataset includes:
 9. HIV
 10. Insecta
 11. Protists (balanced)
-12. Fungi (balanced)
-13. Ascomycota
+12. Fungi (balanced)-> (Fungi_Phylum)
+13. Ascomycota (Fungi_Subphylum)
+* Note: The following datasets are not included due to their large size: Insecta, Fungi (balanced), and Ascomycota.
+They can be accessed from the original repository: https://github.com/millanp95/CGRcluster
 ---
 
 ### 2. iDeLUCS / DeLUCS Datasets (External)
