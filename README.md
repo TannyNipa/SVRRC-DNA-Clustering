@@ -1,6 +1,12 @@
 # SVRRC-DNA-Clustering
 
-This repository accompanies our journal submission on predicting the number of clusters in genomic data using synthetic pre-training and SVR-based ordinal regression (SVRRC).
+This repository accompanies the peer-reviewed article:
+
+**Predicting the Number of Clusters in Genomic Data via Synthetic Pre-Training and Support Vector Regression-Based Ordinal Regression**
+
+Published online in *IEEE Access* on **23 July 2026**.
+
+**DOI:** [https://doi.org/10.1109/ACCESS.2026.3713686](https://doi.org/10.1109/ACCESS.2026.3713686)
 
 ## Overview
 
